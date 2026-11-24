@@ -1,5 +1,7 @@
 # subagents-conductor
 
+![conductor demo: three subagents working, replying to main, then the stage clears](assets/demo.gif)
+
 A Claude Code mod that turns the subagent list under the prompt into a live pixel-art stage: a Claude-logo
 conductor yelling at its subagents, one coloured figure per agent, and wires that light up while they work.
 
