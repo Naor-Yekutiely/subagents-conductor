@@ -1,0 +1,1 @@
+{ "name": "conductor", "version": "0.1.0", "description": "Pixel-art stage under the prompt: main conducting its subagents, each one's current action, runtime and health (stuck / zombie)", "types": "./types/index.d.ts" }

@@ -1,0 +1,5 @@
+{
+  "name": "subagents-conductor",
+  "owner": { "name": "Naor-Yekutiely" },
+  "plugins": [{ "name": "conductor", "source": "./" }]
+}
