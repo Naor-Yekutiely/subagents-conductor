@@ -31,6 +31,13 @@ From a shell:
 claude plugin install conductor --marketplace Naor-Yekutiely/subagents-conductor
 ```
 
+## Update
+
+```
+claude plugin marketplace update subagents-conductor
+claude plugin update conductor@subagents-conductor
+```
+
 ## Use
 
 Ask Claude to start a few subagents. The stage appears under the prompt while they run.
